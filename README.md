@@ -15,7 +15,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 BS Computer Science graduate from **University of Management and Technology (UMT), Lahore**
-- 💻 Specializing in **MERN Stack development** and **UI/UX Design**
+- 💻 Specializing in **Prompt Engineering** **MERN Stack development** and **UI/UX Design**
 - 🌱 Currently deepening my skills in **Prompt Engineering**, Chain-of-Thought pipelines, and LLM reasoning architectures as an intern at [**DecodeLabs**](https://www.decodelabs.tech/intern-portal)
 - 🎯 Built **CropGuard AI** — an AI-powered crop disease detection platform for Pakistani farmers
 - 📍 Based in **Lahore, Pakistan**
@@ -108,7 +108,7 @@ Responsive shoe e-commerce platform with product catalog, best-seller showcase, 
 
 `React` `Next.js 14` `TypeScript` `Shadcn UI`
 
-[![Repo](https://img.shields.io/badge/View-Repo-00F7FF?style=flat-square&logo=github)](https://github.com/fareed1234/borcelle)
+[![Repo](https://img.shields.io/badge/View-Repo-00F7FF?style=flat-square&logo=github)](https://github.com/fareed1234/BORCELLE-Shoe-Shop--E-commerce-Website-Using-React-Next.js-14)
 
 </td>
 <td width="50%">
@@ -118,7 +118,7 @@ Full-stack food ordering platform with authentication, dynamic menus, session ha
 
 `PHP` `MySQL` `JavaScript`
 
-[![Repo](https://img.shields.io/badge/View-Repo-00F7FF?style=flat-square&logo=github)](https://github.com/fareed1234/foodie-express)
+[![Repo](https://img.shields.io/badge/View-Repo-00F7FF?style=flat-square&logo=github)](https://github.com/fareed1234/Foodie-Express-Online-Food-Ordering-System)
 
 </td>
 </tr>
@@ -130,7 +130,7 @@ AI-powered voice assistant with NLP capabilities, scheduling, email handling, an
 
 `Python` `NLP`
 
-[![Repo](https://img.shields.io/badge/View-Repo-00F7FF?style=flat-square&logo=github)](https://github.com/fareed1234/freddie-ai)
+[![Repo](https://img.shields.io/badge/View-Repo-00F7FF?style=flat-square&logo=github)](https://github.com/fareed1234/Foodie-Express-Online-Food-Ordering-System)
 
 </td>
 <td width="50%">
@@ -140,7 +140,7 @@ Personal portfolio with light/dark mode, SEO optimization, smooth animations, an
 
 `Next.js 15` `Tailwind CSS` `Framer Motion`
 
-[![Repo](https://img.shields.io/badge/View-Repo-00F7FF?style=flat-square&logo=github)](https://github.com/fareed1234/portfolio)
+[![Repo](https://img.shields.io/badge/View-Repo-00F7FF?style=flat-square&logo=github)](https://github.com/fareed1234/Professional-Personal-Website-using-React-Next.js)
 
 </td>
 </tr>
