@@ -150,18 +150,7 @@ Personal portfolio with light/dark mode, SEO optimization, smooth animations, an
 
 ---
 
-### 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=fareed1234&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fareed1234&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fareed1234&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fareed1234&theme=tokyo-night&hide_border=true" alt="Activity Graph" width="90%"/>
-
-</div>
 
 ---
 
@@ -188,9 +177,7 @@ Personal portfolio with light/dark mode, SEO optimization, smooth animations, an
 <a href="https://github.com/fareed1234">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.upwork.com/freelancers/YOUR-UPWORK-HANDLE">
-  <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
-</a>
+
 
 </div>
 
