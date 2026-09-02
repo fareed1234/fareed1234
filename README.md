@@ -15,8 +15,8 @@
 ### 🧑‍💻 About Me
 
 - 🎓 BS Computer Science graduate from **University of Management and Technology (UMT), Lahore**
-- 💻 Specializing in **Prompt Engineering** **MERN Stack development** and **UI/UX Design**
-- 🌱 Currently deepening my skills in **Prompt Engineering**, Chain-of-Thought pipelines, and LLM reasoning architectures as an intern at [**DecodeLabs**](https://www.decodelabs.tech/intern-portal)
+- 💻 Specializing in **AI ML** **Prompt Engineering** **MERN Stack development** and **UI/UX Design**
+- 🌱 Deepened my skills in **Prompt Engineering**, Chain-of-Thought pipelines, and LLM reasoning architectures as an intern at [**DecodeLabs**](https://www.decodelabs.tech/intern-portal)
 - 🎯 Built **CropGuard AI** — an AI-powered crop disease detection platform for Pakistani farmers
 - 📍 Based in **Lahore, Pakistan**
 - ⚡ Fun fact: I once designed a login screen five different ways just to see which one felt right
